@@ -28,6 +28,8 @@
         "tabnine.tabnine-vscode",
         "styled-components.vscode-styled-components",
         "johnpapa.winteriscoming",
-        "balleriniserver.ballerini-theme"
+        "balleriniserver.ballerini-theme",
+        "naumovs.color-highlight",
+        "editorconfig.editorconfig"
     ]
 }
