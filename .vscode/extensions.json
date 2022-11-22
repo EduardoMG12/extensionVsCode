@@ -1,0 +1,33 @@
+{
+    "recommendations": [
+        "daltonmenezes.aura-theme",
+        "steoates.autoimport",
+        "formulahendry.auto-rename-tag",
+        "blackboxapp.blackbox",
+        "dzhavat.bracket-pair-toggler",
+        "formulahendry.code-runner",
+        "softwaredotcom.swdc-vscode",
+        "anseki.vscode-color",
+        "icrawl.discord-vscode",
+        "dracula-theme.theme-dracula",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "mhutchie.git-graph",
+        "kisstkondoros.vscode-gutter-preview",
+        "zignd.html-css-class-completion",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "chirtlelovesdolls.nebula-theme",
+        "miramac.vscode-exec-node",
+        "tinkertrain.theme-panda",
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "esbenp.prettier-vscode",
+        "2gua.rainbow-brackets",
+        "slint.slint",
+        "standard.vscode-standard",
+        "tabnine.tabnine-vscode",
+        "styled-components.vscode-styled-components",
+        "johnpapa.winteriscoming",
+        "balleriniserver.ballerini-theme"
+    ]
+}
